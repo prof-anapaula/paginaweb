@@ -1,9 +1,13 @@
 header{
-  background: blue;
-  color: white;
+  background: #183C63;
+  color: #FFFFFF;
   text-align: center;
 }
 main{
-  background: white;
-  color: blue;
+  background: #FFFFFF;
+  color: #183C63;
+}
+img{
+  width: 80px;
+  height: 80px;
 }
