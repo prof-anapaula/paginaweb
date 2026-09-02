@@ -1,3 +1,7 @@
+.tema-escuro{
+  background: #151428;
+  color:#ffffff;
+}
 header{
   background: #183C63;
   color: #FFFFFF;
@@ -39,7 +43,4 @@ article {
     padding: 16px;
     flex: 1 1 25%;
 }
-.tema-escuro{
-  background: #151428;
-  color:#ffffff;
-}
+
