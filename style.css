@@ -1,3 +1,7 @@
+/* O asterisco aplica a regra a todos os elementos do site */
+* {
+    transition: background-color 0.3s ease;
+}
 header{
   background: #183C63;
   color: #FFFFFF;
@@ -40,10 +44,7 @@ article {
     flex: 1 1 25%;
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
 }
-/* O asterisco aplica a regra a todos os elementos do site */
-* {
-    transition: background-color 0.3s ease;
-}
+
 
 .tema-escuro{
   background: #151428;
