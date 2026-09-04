@@ -39,13 +39,17 @@ article {
     padding: 16px;
     flex: 1 1 25%;
 }
+.tema-escuro{
+  background: #183C63;
+  color: #FFFFFF;
+}
 .btn-tema-escuro {
     position: fixed;
     bottom: 16px;
     right: 16px; 
-    font-size: 32px; 
+    font-size: 24px; 
     padding: 12px;   
-    background-color: #183C63;
+    background-color: #CCCCCC;
     border-radius: 10%; 
     border: none; 
     cursor: pointer;
